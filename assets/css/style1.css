@@ -4,10 +4,12 @@
     - Use the 'Lato' font family at 18px throughout the body of the document
     - cover background with the "map-bg.jpg" image in the images directory. 
 */
-body{font-family: 'Lato';
-font-size: 18px;
-background-image:url('../images/map-bg.jpg');
- background-size:cover;}
+body{
+    font-family: 'Lato';
+    font-size: 18px;
+    background-image: url("../images/map-bg.jpg");
+    background-size: cover;
+}
 nav {
     font-family: sans-serif;
     font-size: 10px;
